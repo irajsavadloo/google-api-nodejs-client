@@ -1,4 +1,4 @@
-on:
+okon:
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
